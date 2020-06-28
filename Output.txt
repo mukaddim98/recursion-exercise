@@ -1,0 +1,83 @@
+*Exercise 1*
+
+Factorial of 9 is 362880
+The 10th fibonacci number is 55
+2 to the power of 5 is 32
+
+*Exercise 2*
+
+Enter a number to count down from: 
+12
+12	11	10	9	8	7	6	5	4	3	2	1	BlastOff!
+
+*Exercise 3*
+
+Enter a number to count down from (in odds/evens): 
+10
+10	8	6	4	2	BlastOff!
+
+*Exercise 4*
+
+The program will print the first m multiples of a positive integer n.
+Enter value for m: 
+3
+Enter value for n: 
+6
+3, 6, 9, 12, 15, 18, 
+
+*Exercise 5*
+
+Enter a number n and the program will print it vertically:
+7942837
+Vertical:
+7
+9
+4
+2
+8
+3
+7
+
+*Exercise 6*
+
+Enter a number n and the program will calculate the sum of the squares of all digits 1 through n:
+4
+The answer is 30
+
+*Exercise 7*
+
+Enter the value of 'n' to solve for towers of hanoi:
+8
+Number of moves: 255
+The execution time: 1
+
+Enter the value of 'n' to solve for towers of hanoi:
+12
+Number of moves: 4095
+The execution time: 0
+
+Enter the value of 'n' to solve for towers of hanoi:
+16
+Number of moves: 65535
+The execution time: 1
+
+Enter the value of 'n' to solve for towers of hanoi:
+20
+Number of moves: 1048575
+The execution time: 4
+
+Enter the value of 'n' to solve for towers of hanoi:
+24
+Number of moves: 16777215
+The execution time: 27
+
+Enter the value of 'n' to solve for towers of hanoi:
+28
+Number of moves: 268435455
+The execution time: 419
+
+Enter the value of 'n' to solve for towers of hanoi:
+32
+Number of moves: 4294967295
+The execution time: 5902
+
