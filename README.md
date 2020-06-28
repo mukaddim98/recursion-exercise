@@ -5,10 +5,8 @@ Some exercises I did to get familiar with Recursions.
 Ex 1:
 Fatorial
 A recursive method that calculates the factorial of a non-negative integer n
-
 Fibonacci
 A recursive method that finds the nth number in the Fibonacci series
-
 Exponentiation
 A recursive method that calculates x to the power n, where x and n are both positive integers
 
